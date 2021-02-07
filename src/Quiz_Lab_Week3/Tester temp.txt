@@ -1,0 +1,11 @@
+1234 Somchai 3.12 885100 Logic
+5678 Somying 2.5 885100 Logic
+1123 Somjai 1.89 886201 Programming
+3456 Somsri 2.15 886111 Thai
+4112 Sompang 3.59 889123 Tour
+
+1234 Somchai 3.12 885100 Logic
+5678 Somying 2.5 885101 ICT
+1123 Somjai 1.89 885101 ICT
+3456 Somsri 2.15 888111 Thai
+4112 Sompang 3.59 889123 Tour
